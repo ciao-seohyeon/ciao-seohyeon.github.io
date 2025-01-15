@@ -55,14 +55,14 @@ My primary research interest includes:
 > ICML, 2024
 
 
-> [**Towards safe self-distillation of internet-scale text-to-image diffusion models**](https://arxiv.org/pdf/2307.05977)
+> [**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**](https://arxiv.org/pdf/2307.05977)
 >
 > [Sanghyun Kim](https://scholar.google.com/citations?user=BBQXZhkAAAAJ&hl=ko&oi=ao), [**Seohyeon Jung**](https://scholar.google.com/citations?user=9vDtR1IAAAAJ&hl=ko), [Balhae Kim](https://scholar.google.com/citations?user=YY_D3XkAAAAJ&hl=ko&oi=ao), [Moonseok Choi](https://scholar.google.com/citations?user=i-pOb1IAAAAJ&hl=ko), [Jinwoo Shin](https://scholar.google.com/citations?user=m3eDp7kAAAAJ&hl=ko&oi=ao), [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao)
 >
 > ICML 2023 Workshop on Challenges in Deployable Generative AI
  
 
-> [**A simple yet powerful deep active learning with snapshots ensembles**](https://openreview.net/pdf?id=IVESH65r0Ar)
+> [**A Simple Yet Powerful Deep Active Learning with Snapshots Ensembles**](https://openreview.net/pdf?id=IVESH65r0Ar)
 >
 > [**Seohyeon Jung**](https://scholar.google.com/citations?user=9vDtR1IAAAAJ&hl=ko), [Sanghyun Kim](https://scholar.google.com/citations?user=BBQXZhkAAAAJ&hl=ko&oi=ao), [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao)
 >
