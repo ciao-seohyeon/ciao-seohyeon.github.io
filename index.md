@@ -6,11 +6,11 @@ layout: default
 ## 🤓 About
 
 
-I am AI Research Engineer at [NEXON Korea](https://company.nexon.com/ko/). Prior joining to NEXON, I finished Master's from the [Graduate School of AI at KAIST](https://gsai.kaist.ac.kr/?lang=ko), under the supervision of Prof. [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao).
+I finished Master's from the [Graduate School of AI at KAIST](https://gsai.kaist.ac.kr/?lang=ko), under the supervision of Prof. [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao).
 
 My primary research interest includes:
 
-* Multimodal LLMs, Data-efficient Learning, Fairness
+* Multimodal LLMs, Data-efficient Learning
 
 
 
@@ -27,7 +27,7 @@ My primary research interest includes:
 
 ## 💻  Work Experiences 
 
-* **2024.02 - Current**, AI Research Engineer at [NEXON Korea](https://company.nexon.com/ko/) Vision Hack Detect Team, Seongnam, South Korea
+* **2024.02 - 2025.05**, AI Research Engineer at [NEXON Korea](https://company.nexon.com/ko/) Vision Hack Detect Team, Seongnam, South Korea
 
 * **2021.07 - 2022.02**, Undergraduate Research Intern at KAIST, [Statistical Inference and Machine Learning Lab](https://siml.kaist.ac.kr/), Daejeon, South Korea
 
