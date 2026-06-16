@@ -7,7 +7,7 @@ title: Seohyeon Jung
 ## 🤓 About
 
 
-I am an AI Research Engineer at [KRAFTON AI](https://www.krafton.ai/), building a Co-Playable Character (CPC), [PUBG Ally](https://www.youtube.com/watch?v=OdtFL1CDDwc), which is an in-game embodied agent. I work on evaluating these agents, measuring their quality as teammates based on real player feedback.
+I am an AI Research Engineer at [KRAFTON AI](https://www.krafton.ai/), building a Co-Playable Character (CPC), [PUBG Ally](https://www.youtube.com/watch?v=OdtFL1CDDwc), which is an in-game embodied agent. Currently, I'm focusing on evaluating PUBG Ally as an AI teammate.
 
 I completed my M.S. at the [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/?lang=ko), where I was advised by Prof. [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao) in the [Statistical Inference & Machine Learning Lab](https://siml.kaist.ac.kr/), focusing on data-efficient learning and multimodal LLMs.
 
