@@ -1,33 +1,23 @@
 ---
 layout: default
+title: Seohyeon Jung
 ---
 
 
 ## 🤓 About
 
 
-I finished Master's from the [Graduate School of AI at KAIST](https://gsai.kaist.ac.kr/?lang=ko), under the supervision of Prof. [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao).
+I am an AI Research Engineer at [KRAFTON AI](https://www.krafton.ai/), building a Co-Playable Character (CPC), [PUBG Ally](https://www.youtube.com/watch?v=OdtFL1CDDwc), which is an in-game embodied agent. I work on evaluating these agents, measuring their quality as teammates based on real player feedback.
 
-My primary research interest includes:
+I completed my M.S. at the [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/?lang=ko), where I was advised by Prof. [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao) in the [Statistical Inference & Machine Learning Lab](https://siml.kaist.ac.kr/), focusing on data-efficient learning and multimodal LLMs.
 
-* Multimodal LLMs, Data-efficient Learning
-
-
-
-<br>
-
-## 🎓 Education
-
-* **2022.02 - 2024.02**, M.S. in Graduate School of AI, KAIST.
-
-* **2017.02 - 2022.02**, B.S. in Computer Science (major) and Industrial Design (minor), KAIST.
 
 
 <br>
 
 ## 💻  Work Experiences 
 
-* **2025.06 - Present**, AI Engineer at [KRAFTON](https://www.krafton.com/) AI Companion Team, Seoul, South Korea
+* **2025.06 - Present**, AI Research Engineer at [KRAFTON](https://www.krafton.ai/) AI Companion Team, Seoul, South Korea
 
 * **2024.02 - 2025.05**, AI Research Engineer at [NEXON Korea](https://company.nexon.com/ko/) Vision Hack Detect Team, Seongnam, South Korea
 
@@ -40,6 +30,14 @@ My primary research interest includes:
 
 <br>
 
+## 🎓 Education
+
+* **2022.02 - 2024.02**, M.S. in Graduate School of AI, KAIST.
+
+* **2017.02 - 2022.02**, B.S. in Computer Science (major) and Industrial Design (minor), KAIST.
+
+
+<br>
 
 ## 📕 Publication
 
