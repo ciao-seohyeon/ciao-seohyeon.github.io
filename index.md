@@ -27,6 +27,8 @@ My primary research interest includes:
 
 ## 💻  Work Experiences 
 
+* **2025.06 - Present**, AI Engineer at [KRAFTON](https://www.krafton.com/) AI Companion Team, Seoul, South Korea
+
 * **2024.02 - 2025.05**, AI Research Engineer at [NEXON Korea](https://company.nexon.com/ko/) Vision Hack Detect Team, Seongnam, South Korea
 
 * **2021.07 - 2022.02**, Undergraduate Research Intern at KAIST, [Statistical Inference and Machine Learning Lab](https://siml.kaist.ac.kr/), Daejeon, South Korea
