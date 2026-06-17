@@ -4,18 +4,18 @@ title: Seohyeon Jung
 ---
 
 
-## 🤓 About
+## About
 
 
-I am an AI Research Engineer at [KRAFTON AI](https://www.krafton.ai/), building a Co-Playable Character (CPC), [PUBG Ally](https://www.youtube.com/watch?v=OdtFL1CDDwc), which is an in-game embodied agent. Currently, I'm focusing on evaluating PUBG Ally as an AI teammate.
+I am an AI Research Engineer at [KRAFTON AI](https://www.krafton.ai/), where I work on in-game embodied agents for real-time human-AI collaboration. My research focuses on evaluating and aligning co-playable agents by grounding model behavior in gameplay trajectories, dialogue, and player preference signals.
 
-I completed my M.S. at the [KAIST Graduate School of AI](https://gsai.kaist.ac.kr/?lang=ko), where I was advised by Prof. [Juho Lee](https://scholar.google.com/citations?user=Py4URJUAAAAJ&hl=ko&oi=ao) in the [Statistical Inference & Machine Learning Lab](https://siml.kaist.ac.kr/), focusing on data-efficient learning and multimodal LLMs.
+I am particularly interested in building evaluation and data-generation pipelines that make agent behavior more measurable, scalable, and aligned with user experience.
 
 
 
 <br>
 
-## 💻  Work Experiences 
+## Work Experiences
 
 * **2025.06 - Present**, AI Research Engineer at [KRAFTON](https://www.krafton.ai/) AI Companion Team, Seoul, South Korea
 
@@ -30,7 +30,7 @@ I completed my M.S. at the [KAIST Graduate School of AI](https://gsai.kaist.ac.k
 
 <br>
 
-## 🎓 Education
+## Education
 
 * **2022.02 - 2024.02**, M.S. in Graduate School of AI, KAIST.
 
@@ -39,7 +39,7 @@ I completed my M.S. at the [KAIST Graduate School of AI](https://gsai.kaist.ac.k
 
 <br>
 
-## 📕 Publication
+## Publication
 
 > [**Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion**](https://arxiv.org/pdf/2307.05977)
 >
