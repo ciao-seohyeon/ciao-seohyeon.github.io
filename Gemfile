@@ -18,3 +18,9 @@ gem "webrick"
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"
+
+# Ruby 3.4+ removed these from the default gems; Jekyll still requires them
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"

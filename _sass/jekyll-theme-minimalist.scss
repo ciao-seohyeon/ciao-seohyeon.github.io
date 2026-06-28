@@ -27,6 +27,19 @@ h1 {
   font-size:32px;
 }
 
+// Keep the sidebar name on a single line, with the role tucked just below it
+.sidebar header h1 {
+  font-size:26px;
+  white-space:nowrap;
+  letter-spacing:-0.3px;
+  margin-bottom:6px;
+}
+
+// Group the email with the social links below it (match the 6px link spacing)
+.sidebar header p.addr {
+  margin-bottom:6px;
+}
+
 h2 {
   color: var(--clr-h2);
 }
@@ -76,7 +89,7 @@ ul.link:last-child {
 }
 
 .wrapper {
-  width:860px;
+  width:1100px;
   margin: 0 auto;
 }
 
@@ -139,7 +152,7 @@ kbd {
 }
 
 .sidebar {
-  width:185px;
+  width:210px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -174,7 +187,7 @@ strong {
 }
 
 section {
-  width: 610px;
+  width: 830px;
   float:right;
   padding-bottom:30px;
 }
@@ -192,7 +205,7 @@ hr {
 }
 
 footer, .sidebar-footer {
-  width:185px;
+  width:210px;
   float:left;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -206,7 +219,7 @@ footer {
   flex-basis: content;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1100px) {
 
   .sidebar {
     padding: initial;
@@ -286,7 +299,7 @@ footer {
   margin-bottom: 20px;
 }
 
-@media print, screen and (min-width: 961px) {
+@media print, screen and (min-width: 1101px) {
   .link-wrapper-mobile {
     display: none !important;
   }

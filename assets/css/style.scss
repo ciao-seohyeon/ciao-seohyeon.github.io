@@ -6,8 +6,69 @@
 .img-circle {
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
-    border-radius: 8px; 
+    border-radius: 8px;
     margin-bottom: 10px;
+}
+
+/* News: video thumbnails on a single horizontal scrolling row */
+.ally-creators {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 8px;
+    overflow-x: auto;
+    margin-top: 6px;
+    padding-bottom: 8px;
+    -webkit-overflow-scrolling: touch;
+}
+.ally-creators a {
+    flex: 0 0 auto;
+}
+.ally-creators img {
+    display: block;
+}
+
+/* News: align the description bullets' left edge with the thumbnail row */
+blockquote ul {
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+/* Publications: paper figure on the left, matching the entry's height */
+.pub {
+    display: flex;
+    align-items: stretch;
+    gap: 16px;
+}
+.pub > p {                 /* kramdown wraps the bare <img> in a <p> */
+    flex: 0 0 200px;
+    align-self: stretch;       /* box height follows the 3-line text block */
+    margin: 0;
+    position: relative;
+    overflow: hidden;          /* crop the horizontal overflow */
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+}
+.pub-fig {                     /* scale to box height, center, crop sides evenly */
+    position: absolute;
+    top: 3px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: calc(100% - 6px);  /* 3px of the gray box peeks out top and bottom */
+    width: auto;
+    max-width: none;
+    display: block;
+}
+.pub-body {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+.pub-body p:last-child {
+    margin-bottom: 0;
+}
+/* Separate each publication entry into its own block */
+blockquote:has(.pub) {
+    margin-bottom: 26px;
 }
 
 .overlay {
